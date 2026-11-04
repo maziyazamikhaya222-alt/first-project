@@ -4,5 +4,18 @@
   "createdAt": "2026-11-04T22:33:38.505Z",
   "filename": "82599e65-3a4e-4a95-af20-a3a1dfa8edfb.json",
   "geminiStarted": false,
-  "messages": []
+  "messages": [
+    {
+      "id": "f265b2d7-34c4-43a1-8763-861e4d22c9e7",
+      "role": "user",
+      "content": "install https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-11-04T22:34:41.778Z",
+      "sender": "ios",
+      "is_cancelled": false
+    }
+  ]
 }
