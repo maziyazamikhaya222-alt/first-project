@@ -64,6 +64,18 @@
       "created_at": "2026-11-04T22:41:48.920Z",
       "sender": "ios",
       "is_cancelled": false
+    },
+    {
+      "id": "68f980c1-95d7-4f80-88a1-cd3f8c040749",
+      "role": "agent",
+      "content": "Let me look up the hotel from that Google Maps link and then build a beautiful website for it.\nI found it — **Modern Hotel Life Style** in KaMartin, Eswatini (Swaziland). Let me search for more details about this hotel.\nNow let me use the design skill to generate a design system for this hotel, and then build the website.\nNow let me build the hotel website with this design system.\nThe website for **Modern Hotel Life Style** is now live! 🏨\n\n**View it here:** https://antigravity.luch.dev/site/692ccd8c-0228-46cd-9ae9-bd9cc5190abe/b7aad577cee1bce9847c14f9/\n\n### What's included:\n\n| Section | Details |\n|:---|:---|\n| **Hero** | Full-screen with location badge, headline, CTA buttons, and key stats |\n| **About** | Hotel introduction with feature highlights (Wi-Fi, parking, hospitality, security) |\n| **Rooms** | 3 room types — Classic (E850), Deluxe (E1,200), Executive (E1,800) with amenity tags |\n| **Amenities** | 8 cards: Restaurant, Wi-Fi, Parking, Security, A/C, TV, Conference Room, Laundry |\n| **Gallery** | 5-image mosaic grid with hover zoom effects |\n| **Reviews** | 3 guest testimonial cards with star ratings |\n| **Location** | Google Maps embed + address, check-in times, contact info, and directions |\n| **CTA** | Book Now section with direct Google Maps link |\n| **Footer** | Quick links, services, contact, and social media icons |\n\n### Design features:\n- **Navy + Gold** luxury color scheme (from the design skill)\n- **Playfair Display + Karla** font pairing for hospitality\n- Fully **responsive** (mobile, tablet, desktop)\n- **Smooth scroll animations** on reveal\n- **Accessible**: keyboard navigation, focus states, reduced-motion support\n- **Google Maps** link back to the original listing\n\n> **Note:** The phone number shows as `+268 XXXX XXXX` — let me know the actual number and I'll update it! Same for the email and social media links.",
+      "status": "completed",
+      "model": "claude-opus-4-6-thinking",
+      "client_type": "gemini-bridge",
+      "parent_message_id": "84bee3a7-bbca-42d6-825c-2fb4c4abc909",
+      "created_at": "2026-11-04T22:46:48.301Z",
+      "sender": "macOS",
+      "is_cancelled": false
     }
   ]
 }
